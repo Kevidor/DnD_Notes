@@ -4,13 +4,15 @@ HP: 6
 Level: 2
 
 Cantrips:
-1. 
-2. 
-3. 
+1. [[Mage Hand]]
+2. [[Magic Stone]]
+3. [[Ray of Frost]]
 
-Spell slot Level 1:
-1. 
-2. 
+
+Spells Level 1:
+Slots: (0)(0)
+1. [[Cure Wounds]]
+2. [[Catapult]]
 
 Inventory:
 Goldmünzen: 160
@@ -26,3 +28,6 @@ Light Crossbow: 1d8 piercing
 4m Schnur
 2 Stück Holz
 3 Goldzähne
+
+Pets:
+schwarzes Pferd
