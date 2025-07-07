@@ -1,10 +1,21 @@
 Real Player: Kevin (ich)
 
-HP: 6
+HP/Max HP: 10/10
 Level: 2
+
+| STR | DEX | CON | INT | WIS | CHA |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|  8  | 14  | 14  | 16  | 13  | 12  |
+| -1  | +2  | +2  | +3  | +1  | +1  |
 
 Feats:
 [[Magical Tinkering]], [[Spellcasting]], [[Infuse Item]]
+
+Known Infusions:
+1. [[Repeating Shot]]
+2. [[Returning Weapon]]
+3. [[Mind Sharpener]]
+4. [[Homunculus Servant]]
 
 Cantrips:
 1. [[Mage Hand]]
@@ -15,12 +26,14 @@ Spells Level 1:
 Slots: (0)(0)
 1. [[Cure Wounds]]
 2. [[Catapult]]
+3. [[Snare]]
 
 Inventory:
 Goldmünzen: 160
 Silbermünzen: 30
+Kupfermünzen: 0
 
-studded leather armor: 
+studded leather armor: 12 + Dex
 
 Dagger: 1d4 piercing
 Handaxe: 1d6 slashing

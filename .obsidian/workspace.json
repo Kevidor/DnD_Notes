@@ -1,29 +1,29 @@
 {
   "main": {
-    "id": "9d787335129db671",
+    "id": "f0cf9d24302c7e24",
     "type": "split",
     "children": [
       {
-        "id": "dc3816aa7042b199",
+        "id": "444f8d6dfe927d7a",
         "type": "tabs",
-        "dimension": 50.317258883248726,
+        "dimension": 49.111675126903556,
         "children": [
           {
-            "id": "68d551b3e5d6b975",
+            "id": "348cfbba3951f7ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Story/01_Session (06.07.26).md",
+                "file": "08_Monster/Goblin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Session (06.07.26)"
+              "title": "Goblin"
             }
           },
           {
-            "id": "6c668317821aacb9",
+            "id": "66b222fdefada391",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,46 +37,32 @@
             }
           },
           {
-            "id": "71f9425159cc65ac",
+            "id": "33e4c2e9e45cf805",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_NPC's/Lord Cragmaw.md",
+                "file": "04_NPC's/Gundren Rockseeker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lord Cragmaw"
+              "title": "Gundren Rockseeker"
             }
           }
         ]
       },
       {
-        "id": "bd5aca6a4a17f26c",
+        "id": "415fa571c7930dae",
         "type": "split",
-        "dimension": 49.68274111675127,
+        "dimension": 50.888324873096444,
         "children": [
           {
-            "id": "b4209385bc75954e",
+            "id": "b64b227fce86bbf6",
             "type": "tabs",
             "children": [
               {
-                "id": "a988b6a475685576",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02_Adventurers/Kyzer.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Kyzer"
-                }
-              },
-              {
-                "id": "1416f8e7795f6ed6",
+                "id": "0d237e8e619511ab",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -90,69 +76,28 @@
                 }
               },
               {
-                "id": "7af35010e256066d",
+                "id": "59df7f122d4ab3de",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02_Adventurers/Kamdusal.md",
+                    "file": "02_Adventurers/Kyzer.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Kamdusal"
-                }
-              },
-              {
-                "id": "9607bbb92a23152f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02_Adventurers/Vektor Stalan.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Vektor Stalan"
+                  "title": "Kyzer"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
-            "id": "2f26d264684b24f5",
+            "id": "772fecc07cc3a85f",
             "type": "tabs",
             "children": [
               {
-                "id": "26b33a2d6b070429",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "05_Spells/Cure Wounds.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Cure Wounds"
-                }
-              },
-              {
-                "id": "f865ff9f5b7b5392",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "05_Spells/Catapult.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Catapult"
-                }
-              },
-              {
-                "id": "3817787a5296bab6",
+                "id": "da274e519597dff9",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -166,7 +111,7 @@
                 }
               },
               {
-                "id": "040a9c3e85e3d704",
+                "id": "5c28515bcb75e815",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -180,31 +125,59 @@
                 }
               },
               {
-                "id": "21bb7f49bcdb0f1e",
+                "id": "e04de92f58ae43af",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "05_Spells/Mage Hand.md",
+                    "file": "05_Spells/Cure Wounds.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Mage Hand"
+                  "title": "Cure Wounds"
                 }
               },
               {
-                "id": "e8e86d9120932a39",
+                "id": "11d1ecb04551315e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "06_Feats/Innate Sorcery.md",
+                    "file": "05_Spells/Snare.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Innate Sorcery"
+                  "title": "Snare"
+                }
+              },
+              {
+                "id": "9707191e204aab6c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05_Spells/Absorb Elements.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Absorb Elements"
+                }
+              },
+              {
+                "id": "1ead676d13013885",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "06_Infusions/Repeating Shot.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Repeating Shot"
                 }
               }
             ],
@@ -217,15 +190,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8be4c4356a0aa406",
+    "id": "45c0496dab1624b0",
     "type": "split",
     "children": [
       {
-        "id": "ae01544a56b33969",
+        "id": "dce380ea0acc4b66",
         "type": "tabs",
         "children": [
           {
-            "id": "0f9b793d9d929b8f",
+            "id": "c7b55cca7dd0f7d1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -238,7 +211,7 @@
             }
           },
           {
-            "id": "3a8d0feb48f9a47a",
+            "id": "ddeabffe898e685e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -255,7 +228,7 @@
             }
           },
           {
-            "id": "9923c2c3634f299a",
+            "id": "11fa32a1e674bf1c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -268,18 +241,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 300
   },
   "right": {
-    "id": "dece53f8427ce11a",
+    "id": "99320e91960f5801",
     "type": "split",
     "children": [
       {
-        "id": "5c3c3ddce4b695b4",
+        "id": "d11c3c536bcbb1c3",
         "type": "tabs",
         "children": [
           {
-            "id": "d422234101fa799d",
+            "id": "d970317300ca770b",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -297,7 +270,7 @@
             }
           },
           {
-            "id": "b39ecf9751bca94f",
+            "id": "342881ef98b68208",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -310,7 +283,7 @@
             }
           },
           {
-            "id": "4de46f8f4d7cda1a",
+            "id": "142953b87429c0b2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -325,7 +298,7 @@
             }
           },
           {
-            "id": "2ca832f3f1706281",
+            "id": "3bc64065edb1115d",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -338,12 +311,11 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -357,45 +329,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a988b6a475685576",
+  "active": "348cfbba3951f7ae",
   "lastOpenFiles": [
-    "00_Story/01_Session (06.07.26).md",
-    "06_Feats/Innate Sorcery.md",
-    "06_Feats",
     "02_Adventurers/Kyzer.md",
-    "README.md",
-    "02_Adventurers/Ilu Ignoris.md",
-    "04_NPC's/Klarg.md",
-    "04_NPC's/Lord Cragmaw.md",
-    "04_NPC's/Saldir Halbwinter.md",
-    "02_Adventurers/Vektor Stalan.md",
-    "02_Adventurers/Kamdusal.md",
-    "05_Spells/Cure Wounds.md",
-    "05_Spells/Catapult.md",
+    "08_Monster/Goblin.md",
+    "08_Monster/Bugbear.md",
+    "06_Infusions/Repeating Shot.md",
+    "06_Infusions/Homunculus Servant.md",
+    "07_Feats/Infuse Item.md",
+    "05_Spells/Absorb Elements.md",
+    "06_Infusions/Returning Weapon.md",
+    "06_Infusions/Mind Sharpener.md",
+    "06_Infusions/Armor of Tools.md",
     "05_Spells/Magic Stone.md",
+    "06_Infusions",
+    "05_Spells/Snare.md",
     "05_Spells/Ray of Frost.md",
-    "07_Monster/Bugbear.md",
-    "07_Monster/Goblin.md",
-    "05_Spells/Mage Hand.md",
-    "01_Side_Quest/Findet den Magier Iarno Albrek.md",
-    "03_Locations/Phandalin.md",
-    "Bilder/Was_die_Goblins_wissen.png",
-    "DnD_Notes/README.md",
-    "DnD_Notes",
-    "01_Side_Quest",
-    "Bilder",
-    "Bilder/Phandalin_map.png",
-    "00_Story/00_Tutorial.md",
-    "05_Spells",
-    "07_Monster",
-    "03_Locations/Pandelva.md",
-    "2025-06-29.md",
-    "02_Adventurers",
+    "05_Spells/Cure Wounds.md",
+    "Bilder/Goblin.png",
+    "638062024584880857.png",
+    "02_Adventurers/Kamdozal.md",
+    "Bilder/Bugbear.png",
+    "04_NPC's/Klarg.md",
+    "00_Story/01_Session (06.07.26).md",
     "04_NPC's/Gundren Rockseeker.md",
-    "04_NPC's/Wirt des Roten Gockels.md",
-    "04_NPC's",
-    "03_Locations",
-    "Untitled.canvas",
-    "00_Story"
+    "03_Locations/Phandalin.md",
+    "03_Locations/Pandelva.md",
+    "07_Feats/Innate Sorcery.md",
+    "02_Adventurers/Ilu Ignoris.md",
+    "01_Side_Quest/Findet den Magier Iarno Albrek.md",
+    "README.md"
   ]
 }
