@@ -3,11 +3,13 @@ Real Player: Kevin (ich)
 HP: 6
 Level: 2
 
+Feats:
+[[Magical Tinkering]], [[Spellcasting]], [[Infuse Item]]
+
 Cantrips:
 1. [[Mage Hand]]
 2. [[Magic Stone]]
 3. [[Ray of Frost]]
-
 
 Spells Level 1:
 Slots: (0)(0)
