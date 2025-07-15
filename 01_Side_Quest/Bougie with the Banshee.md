@@ -1,0 +1,1 @@
+Findet die [[Banshee]] und fragt nach einem Spellbook dass dem [[Magus Beugsaft]] gehört.

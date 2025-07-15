@@ -1,0 +1,407 @@
+{
+  "main": {
+    "id": "9d787335129db671",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc3816aa7042b199",
+        "type": "tabs",
+        "dimension": 52.96969696969697,
+        "children": [
+          {
+            "id": "3654c4771a1bef2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08_Monster/Nothic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nothic"
+            }
+          },
+          {
+            "id": "29f537fc71050beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Locations/Phandalin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phandalin"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bd5aca6a4a17f26c",
+        "type": "split",
+        "dimension": 47.03030303030303,
+        "children": [
+          {
+            "id": "b4209385bc75954e",
+            "type": "tabs",
+            "dimension": 61.099796334012225,
+            "children": [
+              {
+                "id": "a988b6a475685576",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Adventurers/Kyzer.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Kyzer"
+                }
+              },
+              {
+                "id": "1416f8e7795f6ed6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Adventurers/Ilu Ignoris.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ilu Ignoris"
+                }
+              },
+              {
+                "id": "7af35010e256066d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Adventurers/Kamdozal.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Kamdozal"
+                }
+              },
+              {
+                "id": "9607bbb92a23152f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Adventurers/Vektor Stalan.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vektor Stalan"
+                }
+              },
+              {
+                "id": "71f9425159cc65ac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04_NPC's/Lord Cragmaw.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lord Cragmaw"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2f26d264684b24f5",
+            "type": "tabs",
+            "dimension": 38.90020366598778,
+            "children": [
+              {
+                "id": "26b33a2d6b070429",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05_Spells/Cure Wounds.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Cure Wounds"
+                }
+              },
+              {
+                "id": "f865ff9f5b7b5392",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05_Spells/Catapult.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Catapult"
+                }
+              },
+              {
+                "id": "3817787a5296bab6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05_Spells/Magic Stone.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Magic Stone"
+                }
+              },
+              {
+                "id": "040a9c3e85e3d704",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05_Spells/Ray of Frost.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ray of Frost"
+                }
+              },
+              {
+                "id": "21bb7f49bcdb0f1e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05_Spells/Mage Hand.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Mage Hand"
+                }
+              },
+              {
+                "id": "8d2428c765a4415a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "06_Infusions/Returning Weapon.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Returning Weapon"
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8be4c4356a0aa406",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae01544a56b33969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f9b793d9d929b8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3a8d0feb48f9a47a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9923c2c3634f299a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "dece53f8427ce11a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c3c3ddce4b695b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d422234101fa799d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b39ecf9751bca94f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4de46f8f4d7cda1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2ca832f3f1706281",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "3654c4771a1bef2a",
+  "lastOpenFiles": [
+    "Bilder/Nothic.png",
+    "08_Monster/Nothic.md",
+    "02_Adventurers/Kyzer.md",
+    "01_Side_Quest/Bougie with the Banshee.md",
+    "00_Story/02_Session (12.07.27).md",
+    "03_Locations/Phandalin.md",
+    "06_Infusions/Returning Weapon.md",
+    "05_Spells/Absorb Elements.md",
+    "02_Adventurers/Kamdozal.md",
+    "01_Side_Quest/Findet den Magier Iarno Albrek.md",
+    "05_Spells/Snare.md",
+    "03_Locations/Erlenblatthof.md",
+    "00_Story/01_Session (06.07.26).md",
+    "05_Spells/Ray of Frost.md",
+    "05_Spells/Catapult.md",
+    "05_Spells/Mage Hand.md",
+    "06_Infusions/Repeating Shot.md",
+    "Bilder/Goblin.png",
+    "04_NPC's/Rah.md",
+    "08_Monster/Banshee.md",
+    "08_Monster/Bugbear.md",
+    "04_NPC's/Lord Cragmaw.md",
+    "Bilder/Banshee.png",
+    "Bilder/Phandalin_map.png",
+    "02_Adventurers/Vektor Stalan.md",
+    "Bilder/Bugbear.png",
+    "08_Monster/Goblin.md",
+    "08_Monster",
+    "07_Feats/Innate Sorcery.md",
+    "07_Feats/Infuse Item.md",
+    "07_Feats",
+    "06_Infusions/Mind Sharpener.md",
+    "06_Infusions",
+    "Obsidian_GitHub_Key.pub",
+    "Obsidian_GitHub_Key",
+    "06_Feats",
+    "Bilder/Was_die_Goblins_wissen.png",
+    "DnD_Notes",
+    "01_Side_Quest",
+    "Bilder",
+    "05_Spells",
+    "Untitled.canvas"
+  ]
+}

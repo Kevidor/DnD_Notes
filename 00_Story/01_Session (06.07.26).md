@@ -99,12 +99,12 @@ dicker [[Goblin]] stirbt
 [[Goblin]] lässt seine Waffen fallen und fleht um sein Leben
 ***Combat-Ende***
 
-[[Ilu Ignoris]] nähert sich dem knienden [[Goblin]] und legt ihn eine Hand auf die Schulter. Tötet diesen mit [[Necrotic Touch]]. [[Kamdozal]] will den bewusstlosen [[Kamdusal's Goblin]] nicht töten und hält [[Vektor Stalan]] aktiv davon dies zu tun. [[Kyzer]] wirft [[Kamdozal]] die Schnurr hinzu und sagt: "Du willst ihn am Leben lassen, du fesselst ihn" und hilft ihn den [[Kamdusal's Goblin]] zu fesseln.
+[[Ilu Ignoris]] nähert sich dem knienden [[Goblin]] und legt ihn eine Hand auf die Schulter. Tötet diesen mit [[Chill Touch]]. [[Kamdozal]] will den bewusstlosen [[Rah]] nicht töten und hält [[Vektor Stalan]] aktiv davon dies zu tun. [[Kyzer]] wirft [[Kamdozal]] die Schnurr hinzu und sagt: "Du willst ihn am Leben lassen, du fesselst ihn" und hilft ihn den [[Rah]] zu fesseln.
 
 ![[Was_die_Goblins_wissen.png]]
 
 Die Gruppe packten die Vorräte in den Ochsenkarren, schnallten den [[Goblin]] auf [[Kyzer]]'s Pferd und machten sich auf den Weg nach [[Phandalin]].
 
-Die Gruppe gibt die Waren bei [[Elmar Barthen]] ab, dieser zahlt die Gruppe aus. [[Kamdozal]] streicht sich die ganzen 40 Gold selber ein bevor es jemand sieht. [[Saldir Halbwinter]] vergibt die Side-Quest [[Findet den Magier Iarno Albrek]]. [[Vektor Stalan]] macht sich auf zum [[Sleeping Giant]] in um nach [[Lord Cragmaw]] zu forschen. Der Ochsenkarren ist vor den [[Steinhügelherberge]] geparkt. In der Gruppe kauft sich jeder ein Zimmer. [[Vektor Stalan]] leiht [[Saldir Halbwinter]] 15 Silber und [[Kamdozal]] gibt [[Saldir Halbwinter]] einen Apfel. [[Kamdozal]] bekommt Handschellen um den [[Kamdusal's Goblin]] zu fesseln, beim Wechsel merkt er dass der [[Goblin]] sich von den regulären Fesseln befreit hat. Waffenlieferung an [[Löwenschildhändler]].
+Die Gruppe gibt die Waren bei [[Elmar Barthen]] ab, dieser zahlt die Gruppe aus. [[Kamdozal]] streicht sich die ganzen 40 Gold selber ein bevor es jemand sieht. [[Saldir Halbwinter]] vergibt die Side-Quest [[Findet den Magier Iarno Albrek]]. [[Vektor Stalan]] macht sich auf zum [[Sleeping Giant]] in um nach [[Lord Cragmaw]] zu forschen. Der Ochsenkarren ist vor den [[Steinhügelherberge]] geparkt. In der Gruppe kauft sich jeder ein Zimmer. [[Vektor Stalan]] leiht [[Saldir Halbwinter]] 15 Silber und [[Kamdozal]] gibt [[Saldir Halbwinter]] einen Apfel. [[Kamdozal]] bekommt Handschellen um den [[Rah]] zu fesseln, beim Wechsel merkt er dass der [[Goblin]] sich von den regulären Fesseln befreit hat. Waffenlieferung an [[Löwenschildhändler]].
 
-In der Gruppe geht jeder zu seinem Zimmer, [[Kamdusal's Goblin]] schläft bei [[Kamdozal]]. Jeder bekommt eine long Rest.
+In der Gruppe geht jeder zu seinem Zimmer, [[Rah]] schläft bei [[Kamdozal]]. Jeder bekommt eine long Rest.
