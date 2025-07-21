@@ -1,29 +1,43 @@
 {
   "main": {
-    "id": "9d787335129db671",
+    "id": "f0cf9d24302c7e24",
     "type": "split",
     "children": [
       {
-        "id": "dc3816aa7042b199",
+        "id": "444f8d6dfe927d7a",
         "type": "tabs",
-        "dimension": 52.96969696969697,
+        "dimension": 49.111675126903556,
         "children": [
           {
-            "id": "3654c4771a1bef2a",
+            "id": "db18aa1d98df7cb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_Monster/Nothic.md",
+                "file": "00_Story/03_Session (19.07.25).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nothic"
+              "title": "03_Session (19.07.25)"
             }
           },
           {
-            "id": "29f537fc71050beb",
+            "id": "348cfbba3951f7ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08_Monster/Goblin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Goblin"
+            }
+          },
+          {
+            "id": "66b222fdefada391",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,17 +53,16 @@
         ]
       },
       {
-        "id": "bd5aca6a4a17f26c",
+        "id": "415fa571c7930dae",
         "type": "split",
-        "dimension": 47.03030303030303,
+        "dimension": 50.888324873096444,
         "children": [
           {
-            "id": "b4209385bc75954e",
+            "id": "b64b227fce86bbf6",
             "type": "tabs",
-            "dimension": 61.099796334012225,
             "children": [
               {
-                "id": "a988b6a475685576",
+                "id": "59df7f122d4ab3de",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -63,7 +76,7 @@
                 }
               },
               {
-                "id": "1416f8e7795f6ed6",
+                "id": "0d237e8e619511ab",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -77,21 +90,7 @@
                 }
               },
               {
-                "id": "7af35010e256066d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02_Adventurers/Kamdozal.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Kamdozal"
-                }
-              },
-              {
-                "id": "9607bbb92a23152f",
+                "id": "b0365bc9fc94984f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -105,28 +104,55 @@
                 }
               },
               {
-                "id": "71f9425159cc65ac",
+                "id": "3170d9ff3ab792a1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "04_NPC's/Lord Cragmaw.md",
+                    "file": "02_Adventurers/Kamdozal.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Lord Cragmaw"
+                  "title": "Kamdozal"
+                }
+              },
+              {
+                "id": "cb0b2b24f07edc82",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Adventurers/MarvMarv.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MarvMarv"
                 }
               }
             ]
           },
           {
-            "id": "2f26d264684b24f5",
+            "id": "772fecc07cc3a85f",
             "type": "tabs",
-            "dimension": 38.90020366598778,
             "children": [
               {
-                "id": "26b33a2d6b070429",
+                "id": "ff84e8c14a2375e2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Hilfestellung.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Hilfestellung"
+                }
+              },
+              {
+                "id": "1ead676d13013885",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -140,77 +166,21 @@
                 }
               },
               {
-                "id": "f865ff9f5b7b5392",
+                "id": "993788369f6b5a03",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "05_Spells/Catapult.md",
+                    "file": "03_Locations/Phandalin.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Catapult"
-                }
-              },
-              {
-                "id": "3817787a5296bab6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "05_Spells/Magic Stone.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Magic Stone"
-                }
-              },
-              {
-                "id": "040a9c3e85e3d704",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "05_Spells/Ray of Frost.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Ray of Frost"
-                }
-              },
-              {
-                "id": "21bb7f49bcdb0f1e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "05_Spells/Mage Hand.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Mage Hand"
-                }
-              },
-              {
-                "id": "8d2428c765a4415a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "06_Infusions/Returning Weapon.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Returning Weapon"
+                  "title": "Phandalin"
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -219,15 +189,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8be4c4356a0aa406",
+    "id": "45c0496dab1624b0",
     "type": "split",
     "children": [
       {
-        "id": "ae01544a56b33969",
+        "id": "dce380ea0acc4b66",
         "type": "tabs",
         "children": [
           {
-            "id": "0f9b793d9d929b8f",
+            "id": "c7b55cca7dd0f7d1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -240,7 +210,7 @@
             }
           },
           {
-            "id": "3a8d0feb48f9a47a",
+            "id": "ddeabffe898e685e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -257,7 +227,7 @@
             }
           },
           {
-            "id": "9923c2c3634f299a",
+            "id": "11fa32a1e674bf1c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -270,18 +240,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 300
   },
   "right": {
-    "id": "dece53f8427ce11a",
+    "id": "99320e91960f5801",
     "type": "split",
     "children": [
       {
-        "id": "5c3c3ddce4b695b4",
+        "id": "d11c3c536bcbb1c3",
         "type": "tabs",
         "children": [
           {
-            "id": "d422234101fa799d",
+            "id": "d970317300ca770b",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -299,7 +269,7 @@
             }
           },
           {
-            "id": "b39ecf9751bca94f",
+            "id": "342881ef98b68208",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -312,7 +282,7 @@
             }
           },
           {
-            "id": "4de46f8f4d7cda1a",
+            "id": "142953b87429c0b2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -327,7 +297,7 @@
             }
           },
           {
-            "id": "2ca832f3f1706281",
+            "id": "3bc64065edb1115d",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -340,12 +310,11 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -359,50 +328,41 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3654c4771a1bef2a",
+  "active": "59df7f122d4ab3de",
   "lastOpenFiles": [
-    "04_NPC's/Taharden Rockseeker.md",
-    "Bilder/Nothic.png",
-    "08_Monster/Nothic.md",
+    "00_Story/03_Session (19.07.25).md",
     "02_Adventurers/Kyzer.md",
-    "01_Side_Quest/Bougie with the Banshee.md",
-    "00_Story/02_Session (12.07.27).md",
     "03_Locations/Phandalin.md",
-    "06_Infusions/Returning Weapon.md",
-    "05_Spells/Absorb Elements.md",
-    "02_Adventurers/Kamdozal.md",
-    "01_Side_Quest/Findet den Magier Iarno Albrek.md",
-    "05_Spells/Snare.md",
-    "03_Locations/Erlenblatthof.md",
-    "00_Story/01_Session (06.07.26).md",
-    "05_Spells/Ray of Frost.md",
-    "05_Spells/Catapult.md",
-    "05_Spells/Mage Hand.md",
+    "03_Locations/Pandelva.md",
+    "06_Infusions/Homunculus Servant.md",
+    "05_Spells/Cure Wounds.md",
+    "00_Story/02_Session (12.07.25).md",
     "06_Infusions/Repeating Shot.md",
-    "Bilder/Goblin.png",
-    "04_NPC's/Rah.md",
-    "08_Monster/Banshee.md",
-    "08_Monster/Bugbear.md",
-    "04_NPC's/Lord Cragmaw.md",
-    "Bilder/Banshee.png",
-    "Bilder/Phandalin_map.png",
-    "02_Adventurers/Vektor Stalan.md",
-    "Bilder/Bugbear.png",
+    "Hilfestellung.md",
+    "04_NPC's/Gundren Rockseeker.md",
     "08_Monster/Goblin.md",
-    "08_Monster",
-    "07_Feats/Innate Sorcery.md",
-    "07_Feats/Infuse Item.md",
-    "07_Feats",
-    "06_Infusions/Mind Sharpener.md",
+    "05_Spells/Magic Stone.md",
+    "Bilder/Skill liste.png",
+    "README.md",
+    "Bilder/Brief für Albrek.png",
+    "01_Side_Quest/Findet den Magier Iarno Albrek.md",
+    "01_Side_Quest/Bougie with the Banshee.md",
+    "01_Side_Quest/Untitled.md",
+    "08_Monster/Banshee.md",
+    "08_Monster/Nothic.md",
+    "05_Spells/Catapult.md",
+    "05_Spells/Ray of Frost.md",
+    "02_Adventurers/MarvMarv.md",
+    "05_Spells/Absorb Elements.md",
+    "02_Adventurers/Vektor Stalan.md",
+    "02_Adventurers/Kamdozal.md",
+    "02_Adventurers/Ilu Ignoris.md",
+    "00_Story/01_Session (06.07.25).md",
+    "Bilder/Nothic.png",
+    "Bilder/Banshee.png",
     "06_Infusions",
-    "Obsidian_GitHub_Key.pub",
-    "Obsidian_GitHub_Key",
-    "06_Feats",
-    "Bilder/Was_die_Goblins_wissen.png",
-    "DnD_Notes",
-    "01_Side_Quest",
-    "Bilder",
-    "05_Spells",
-    "Untitled.canvas"
+    "Bilder/Goblin.png",
+    "638062024584880857.png",
+    "Bilder/Bugbear.png"
   ]
 }
