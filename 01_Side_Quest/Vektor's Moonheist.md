@@ -1,0 +1,1 @@
+Die Dame am Tressen des [[Phandalin]] Bergbau Exchanges will wissen wieso die Gruppe angeheuert worden und nicht einfache Bergleute/arbeiter des Dorfes.

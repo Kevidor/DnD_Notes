@@ -9,17 +9,45 @@
         "dimension": 49.111675126903556,
         "children": [
           {
-            "id": "348cfbba3951f7ae",
+            "id": "742bb4352b543ab9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Locations/Phandalin.md",
+                "file": "04_NPC's/Brughor Axtbeißer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phandalin"
+              "title": "Brughor Axtbeißer"
+            }
+          },
+          {
+            "id": "b9cc0aebd7804bc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Side_Quest/Bürgermeister's Ork Problem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bürgermeister's Ork Problem"
+            }
+          },
+          {
+            "id": "da1e225d9bff033c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_NPC's/Gog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gog"
             }
           }
         ]
@@ -34,7 +62,7 @@
             "type": "tabs",
             "children": [
               {
-                "id": "59df7f122d4ab3de",
+                "id": "5bf1bb55ac05ccec",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -136,9 +164,36 @@
                   "icon": "lucide-file",
                   "title": "Cure Wounds"
                 }
+              },
+              {
+                "id": "1c478bd629dbef45",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05_Spells/Heroism.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Heroism"
+                }
+              },
+              {
+                "id": "245526317cc97ddc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05_Spells/Shield.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Shield"
+                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -286,39 +341,80 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "348cfbba3951f7ae",
+  "floating": {
+    "id": "81bb35820357817e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d906592a54b0f589",
+        "type": "window",
+        "children": [
+          {
+            "id": "b8db0cf1bdd27acf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e83ffd10ee312c9",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "DnD_Charakterbogen_Kyzer.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "DnD_Charakterbogen_Kyzer"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 591,
+        "y": 138,
+        "width": 774,
+        "height": 960,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5e83ffd10ee312c9",
   "lastOpenFiles": [
+    "DnD 2024 Players Handbook 5e 1.pdf",
+    "Neuer Ordner",
+    "UA2024-Artificer.pdf",
+    "UA2025-Cartographer-Artificer.pdf",
     "02_Adventurers/Kyzer.md",
-    "01_Side_Quest/Untitled.md",
+    "02_Adventurers/Ilu Ignoris.md",
+    "04_NPC's/Brughor Axtbeißer.md",
+    "DnD_Charakterbogen_Kyzer.pdf",
+    "00_Story/05_Session (09.08.2025).md",
+    "08_Monster/Monodrone.md",
+    "00_Story/03_Session (19.07.25).md",
+    "04_NPC's/Gog.md",
+    "04_NPC's/Klarg.md",
+    "Hilfestellung.md",
+    "05_Spells/Cure Wounds.md",
+    "05_Spells/Heroism.md",
+    "05_Spells/Shield.md",
+    "05_Spells/Homunculus Servant.md",
+    "05_Spells/Magic Stone.md",
+    "06_Plans/Armor of Tools.md",
+    "06_Plans/Spell-Refueling Ring.md",
+    "05_Spells/Ray of Frost.md",
+    "05_Spells/Catapult.md",
+    "00_Story/04_Session (27.07.25).md",
+    "01_Side_Quest/Bürgermeister's Ork Problem.md",
     "01_Side_Quest/Findet den Magier Iarno Albrek.md",
     "01_Side_Quest/Bougie with the Banshee.md",
-    "03_Locations/Erlenblatthof.md",
-    "03_Locations/Phandalin.md",
-    "README.md",
-    "Hilfestellung.md",
-    "00_Story/02_Session (12.07.25).md",
-    "08_Monster/Goblin.md",
-    "03_Locations/Pandelva.md",
-    "00_Story/01_Session (06.07.25).md",
-    "00_Story/03_Session (19.07.25).md",
-    "06_Infusions/Homunculus Servant.md",
-    "05_Spells/Cure Wounds.md",
-    "06_Infusions/Repeating Shot.md",
-    "04_NPC's/Gundren Rockseeker.md",
-    "05_Spells/Magic Stone.md",
+    "01_Side_Quest/Kammerjäger.md",
+    "01_Side_Quest/Vektor's Moonheist.md",
+    "05_Spells/Mage Hand.md",
     "Bilder/Skill liste.png",
     "Bilder/Brief für Albrek.png",
-    "08_Monster/Banshee.md",
-    "08_Monster/Nothic.md",
-    "05_Spells/Catapult.md",
-    "05_Spells/Ray of Frost.md",
-    "02_Adventurers/MarvMarv.md",
-    "05_Spells/Absorb Elements.md",
-    "02_Adventurers/Vektor Stalan.md",
-    "02_Adventurers/Kamdozal.md",
     "Bilder/Nothic.png",
     "Bilder/Banshee.png",
-    "06_Infusions",
+    "06_Plans",
     "Bilder/Goblin.png",
     "638062024584880857.png",
     "Bilder/Bugbear.png"
