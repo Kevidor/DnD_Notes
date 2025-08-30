@@ -1,0 +1,1 @@
+Schaltet die [[Schwarze Spinne]] aus die das Kopfgeld auf [[Kamdozal]] aufgetragen hat.

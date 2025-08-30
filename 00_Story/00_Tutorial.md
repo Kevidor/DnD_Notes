@@ -3,10 +3,10 @@
 Als er den Gastraums betrat begrüßte ihn freundlich der Wirt und fragte wohin sein Abenteuer ging. Zuerst war [[Kyzer]] zögerlich ihm darüber zu erzählen, benötigte der Wirt nähere Informationen um Ihn ein Pferd für 5 Gold zu verkaufen.
 [[Kyzer]] kaufte Ihm das Pferd ab und machte sich auf dem Weg. 
 
-Als [[Kyzer]] den [[Roter Gockel]] erreichte, trat er ein und sprach mit dem [[Wirt des Roten Gockels]]. Der Wirt begrüßte [[Kyzer]] freundlich und fragte was ihn zum [[Roter Gockel]] bringt.
+Als [[Kyzer]] den [[Roter Gockel]] erreichte, trat er ein und sprach mit dem [[Markus Haller]]. Der Wirt begrüßte [[Kyzer]] freundlich und fragte was ihn zum [[Roter Gockel]] bringt.
 
 [[Kyzer]] erzählte ihm von [[Gundren Rockseeker]] und der Schriftrolle. Der Wirt erzählte davon dass [[Kyzer]] zu spät sei und das [[Gundren Rockseeker]] mit Pferden und die anderen Abenteurer in einer Ochsen kutsche vor einem Tag davon ritten. 
-Der Wirt bemerkte dass [[Kyzer]]'s Pferd erschöpft aussah und bat ihm an eines seiner Pferde als Tausch an. [[Kyzer]] nahm den Tausch an, der [[Wirt des Roten Gockels]] pfiff seinen Sohn her der [[Kyzer]] und das Pferd in den Stall führte.
+Der Wirt bemerkte dass [[Kyzer]]'s Pferd erschöpft aussah und bat ihm an eines seiner Pferde als Tausch an. [[Kyzer]] nahm den Tausch an, der [[Markus Haller]] pfiff seinen Sohn her der [[Kyzer]] und das Pferd in den Stall führte.
 
 Im Stall standen drei Pferde, ein Schimmel, ein Österreichischer Halfinger und ein schwarzes Mischrasse. [[Kyzer]] nahm das schwarze Pferd und machte sich weiters auf den Weg.
 
