@@ -2,7 +2,7 @@ Real Player: Kevin (ich)
 
 HP/Max HP: 10/10
 Level: 2
-Ep: 175XP
+Ep: 725XP
 
 | STR | DEX | CON | INT | WIS | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -26,33 +26,38 @@ Cantrips:
 3. [[Ray of Frost]]
 
 Spells Level 1:
-Slots: (1)(0)
+Slots: (0)(0)(0)
 1. [[Cure Wounds]]
 2. [[Catapult]]
 3. [[Snare]]
 4. [[Absorb Elements]]
 
 Inventory:
-Elektrummünzen: 15
-Goldmünzen: 222
-Silbermünzen: 58
+Platinmünzen: 3
+Elektrummünzen: 20
+Goldmünzen: 292
+Silbermünzen: 144
 Kupfermünzen: 0
 
 studded leather armor: 12 + Dex
 
 Dagger: 1d4 piercing
-Handaxe: 1d6 slashing
 Light Crossbow: 1d8 piercing
 mit [[Repeating Shot]]: + 1 auf attack und damage rolls
-19 Bolzen
+20 Bolzen
 
-4m Schnur
+4m Seil
 2 Stück Holz
 3 Goldzähne
 2 Granatsteine
+1 carnelians
+1 Malachite
+1 pearl
 1 Heiltrank
 1 Unsichtbarkeitstrank
 1 saubere Reisekleidung
+6 Kieselsteine (davon 0 [[Magic Stone]])
+8 Stofffetzen
 
 Pets:
 schwarzes Pferd

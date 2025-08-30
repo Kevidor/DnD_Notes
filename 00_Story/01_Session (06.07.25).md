@@ -103,7 +103,7 @@ dicker [[Goblin]] stirbt
 
 ![[Was_die_Goblins_wissen.png]]
 
-Die Gruppe packten die Vorräte in den Ochsenkarren, schnallten den [[Goblin]] auf [[Kyzer]]'s Pferd und machten sich auf den Weg nach [[Phandalin]].
+Die Gruppe packten die Vorräte in den Ochsenkarren, schnallten den [[Goblin]] auf [[Kyzer]]'s Pferd und machten sich auf den Weg nach [[Phandelver]].
 
 Die Gruppe gibt die Waren bei [[Elmar Barthen]] ab, dieser zahlt die Gruppe aus. [[Kamdozal]] streicht sich die ganzen 40 Gold selber ein bevor es jemand sieht. [[Saldir Halbwinter]] vergibt die Side-Quest [[Findet den Magier Iarno Albrek]]. [[Vektor Stalan]] macht sich auf zum [[Sleeping Giant]] in um nach [[Lord Cragmaw]] zu forschen. Der Ochsenkarren ist vor den [[Steinhügelherberge]] geparkt. In der Gruppe kauft sich jeder ein Zimmer. [[Vektor Stalan]] leiht [[Saldir Halbwinter]] 15 Silber und [[Kamdozal]] gibt [[Saldir Halbwinter]] einen Apfel. [[Kamdozal]] bekommt Handschellen um den [[Rah]] zu fesseln, beim Wechsel merkt er dass der [[Goblin]] sich von den regulären Fesseln befreit hat. Waffenlieferung an [[Löwenschildhändler]].
 

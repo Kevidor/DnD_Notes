@@ -9,17 +9,31 @@
         "dimension": 52.96969696969697,
         "children": [
           {
+            "id": "d2550087257217b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Story/07_Session (16.08.25).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07_Session (16.08.25)"
+            }
+          },
+          {
             "id": "3654c4771a1bef2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_Monster/Nothic.md",
+                "file": "03_Locations/Phandalin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nothic"
+              "title": "Phandalin"
             }
           },
           {
@@ -32,8 +46,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bd5aca6a4a17f26c",
@@ -43,7 +56,7 @@
           {
             "id": "b4209385bc75954e",
             "type": "tabs",
-            "dimension": 61.099796334012225,
+            "dimension": 58.45213849287168,
             "children": [
               {
                 "id": "a988b6a475685576",
@@ -120,7 +133,7 @@
           {
             "id": "2f26d264684b24f5",
             "type": "tabs",
-            "dimension": 38.90020366598778,
+            "dimension": 41.54786150712831,
             "children": [
               {
                 "id": "26b33a2d6b070429",
@@ -356,9 +369,27 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "29f537fc71050beb",
+  "active": "d2550087257217b1",
   "lastOpenFiles": [
     "02_Adventurers/Kyzer.md",
+    "00_Story/07_Session (16.08.25).md",
+    "01_Side_Quest/Unwissenheit über Untote.md",
+    "01_Side_Quest/Findet den Magier Iarno Albrek.md",
+    "01_Side_Quest/Untitled 1.md",
+    "00_Story/03_Session (19.07.25).md",
+    "03_Locations/Phandalin.md",
+    "08_Monster/Nothic.md",
+    "Bilder/Was_die_Goblins_wissen.png",
+    "Bilder/Skill liste.png",
+    "Bilder/Phandalin_map.png",
+    "Bilder/Nothic.png",
+    "Bilder/Goblin.png",
+    "Bilder/Bugbear.png",
+    "Bilder/Brief für Albrek.png",
+    "Hilfestellung.md",
+    "02_Adventurers/MarvMarv.md",
+    "00_Story/02_Session (12.07.25).md",
+    "00_Story/01_Session (06.07.25).md",
     "02_Adventurers/Ilu Ignoris.md",
     "00_Story/02_Session (12.07.27).md",
     "05_Spells/Mage Hand.md",
@@ -367,35 +398,19 @@
     "08_Monster/Bugbear.md",
     "05_Spells/Magic Stone.md",
     "05_Spells/Catapult.md",
-    "03_Locations/Phandalin.md",
-    "08_Monster/Nothic.md",
     "04_NPC's/Taharden Rockseeker.md",
-    "Bilder/Nothic.png",
     "01_Side_Quest/Bougie with the Banshee.md",
     "06_Infusions/Returning Weapon.md",
     "05_Spells/Absorb Elements.md",
     "02_Adventurers/Kamdozal.md",
-    "01_Side_Quest/Findet den Magier Iarno Albrek.md",
     "05_Spells/Snare.md",
-    "03_Locations/Erlenblatthof.md",
-    "00_Story/01_Session (06.07.26).md",
-    "06_Infusions/Repeating Shot.md",
-    "Bilder/Goblin.png",
-    "04_NPC's/Rah.md",
-    "04_NPC's/Lord Cragmaw.md",
     "Bilder/Banshee.png",
-    "Bilder/Phandalin_map.png",
-    "02_Adventurers/Vektor Stalan.md",
-    "Bilder/Bugbear.png",
-    "08_Monster/Goblin.md",
     "08_Monster",
-    "07_Feats/Innate Sorcery.md",
     "07_Feats",
     "06_Infusions",
     "Obsidian_GitHub_Key.pub",
     "Obsidian_GitHub_Key",
     "06_Feats",
-    "Bilder/Was_die_Goblins_wissen.png",
     "DnD_Notes",
     "01_Side_Quest",
     "Bilder",
