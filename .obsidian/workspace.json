@@ -9,17 +9,43 @@
         "dimension": 52.96969696969697,
         "children": [
           {
-            "id": "397626a8d05d8d43",
+            "id": "6839219fa31fe3e1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UA2024-Artificer.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "UA2024-Artificer"
+            }
+          },
+          {
+            "id": "365237c3f9ef69f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Story/07_Session (30.08.25).md",
+                "file": "00_Story/08_Session (06.09.25).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07_Session (30.08.25)"
+              "title": "08_Session (06.09.25)"
+            }
+          },
+          {
+            "id": "52b33044ffd62d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Story/09_Session (14.09.25).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09_Session (14.09.25)"
             }
           },
           {
@@ -28,12 +54,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Locations/Phandalin.md",
+                "file": "03_Locations/Pandelva.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phandalin"
+              "title": "Pandelva"
             }
           },
           {
@@ -82,7 +108,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "bd5aca6a4a17f26c",
@@ -106,6 +133,20 @@
                   },
                   "icon": "lucide-file",
                   "title": "Kyzer"
+                }
+              },
+              {
+                "id": "c536e850bbc2f15c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Adventurers/Steel Defender.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Steel Defender"
                 }
               },
               {
@@ -200,20 +241,6 @@
                 }
               },
               {
-                "id": "3817787a5296bab6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "05_Spells/Magic Stone.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Magic Stone"
-                }
-              },
-              {
                 "id": "040a9c3e85e3d704",
                 "type": "leaf",
                 "state": {
@@ -242,6 +269,34 @@
                 }
               },
               {
+                "id": "aba2bdf348c12071",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05_Spells/Heroism.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Heroism"
+                }
+              },
+              {
+                "id": "876c84339e446ce0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05_Spells/Shield.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Shield"
+                }
+              },
+              {
                 "id": "8d2428c765a4415a",
                 "type": "leaf",
                 "state": {
@@ -256,7 +311,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -396,6 +451,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -405,38 +461,40 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "397626a8d05d8d43",
+  "active": "52b33044ffd62d44",
   "lastOpenFiles": [
-    "00_Story/06_Session (16.08.25).md",
-    "00_Story/07_Session (30.08.25).md",
-    "04_NPC's/Markus Haller.md",
     "02_Adventurers/Kyzer.md",
-    "DnD_Charakterbogen_Kyzer.pdf",
+    "00_Story/09_Session (14.09.25).md",
+    "03_Locations/Pandelva.md",
+    "08_Monster/Owlbear.md",
+    "08_Monster/Bugbear.md",
+    "Bilder/Owlbear.png",
+    "Hilfestellung.md",
+    "01_Side_Quest/Unwissenheit über Untote.md",
+    "01_Side_Quest/Kammerjäger.md",
     "01_Side_Quest/Findet den Magier Iarno Albrek.md",
     "01_Side_Quest/Bürgermeister's Ork Problem.md",
     "01_Side_Quest/Bougie with the Banshee.md",
-    "UA2025-Cartographer-Artificer.pdf",
-    "UA2024-Artificer.pdf",
-    "00_Story/05_Session (09.08.2025).md",
-    "Hilfestellung.md",
-    "03_Locations/Phandalin.md",
-    "01_Side_Quest/Unwissenheit über Untote.md",
     "01_Side_Quest/Vektor's Moonheist.md",
-    "01_Side_Quest/Kammerjäger.md",
-    "08_Monster/Monodrone.md",
-    "06_Plans/Spell-Refueling Ring.md",
-    "06_Plans/Returning Weapon.md",
-    "06_Plans/Repeating Shot.md",
-    "06_Plans/Mind Sharpener.md",
-    "06_Plans/Armor of Tools.md",
-    "06_Plans",
-    "05_Spells/Shield.md",
-    "05_Spells/Mending.md",
-    "05_Spells/Homunculus Servant.md",
+    "00_Story/08_Session (06.09.25).md",
+    "02_Adventurers/Steel Defender.md",
+    "05_Spells/Ray of Frost.md",
+    "05_Spells/Cure Wounds.md",
+    "08_Monster/Dregre.md",
     "05_Spells/Heroism.md",
-    "04_NPC's/Gog.md",
-    "04_NPC's/Brughor Axtbeißer.md",
-    "00_Story/04_Session (27.07.25).md",
+    "UA2024-Artificer.pdf",
+    "00_Story/07_Session (30.08.25).md",
+    "05_Spells/Shield.md",
+    "05_Spells/Catapult.md",
+    "00_Story/06_Session (16.08.25).md",
+    "00_Story/05_Session (09.08.25).md",
+    "DnD 2024 Players Handbook 5e 1.pdf",
+    "DnD_Charakterbogen_Kyzer.pdf",
+    "04_NPC's/Wurst der Hund.md",
+    "04_NPC's/Markus Haller.md",
+    "UA2025-Cartographer-Artificer.pdf",
+    "08_Monster/Monodrone.md",
+    "06_Plans",
     "Bilder/Was_die_Goblins_wissen.png",
     "Bilder/Skill liste.png",
     "Bilder/Phandalin_map.png",
@@ -450,7 +508,6 @@
     "06_Infusions",
     "Obsidian_GitHub_Key.pub",
     "Obsidian_GitHub_Key",
-    "06_Feats",
     "Untitled.canvas"
   ]
 }

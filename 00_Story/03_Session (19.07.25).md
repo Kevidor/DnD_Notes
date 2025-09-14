@@ -1,6 +1,6 @@
 Nach einer Stunde short Rest macht sich das Team wieder weiter in das Abenteuer.
 
-[[Vektor Stalan]] schaut durch das Schlüsselloch und bemerkt dass es relativ sicher erscheint. Sie steigen über die Leichen der [[Rotröcken]] und machen sich auf zur Falltür. [[Vektor Stalan]] schaut durch die Falltür und sieht dass sie sich in einer Ruine befinden die sich in der Nähe des Tresendar Anwesen das sich östlich in [[Phandalin]] befindet. 
+[[Vektor Stalan]] schaut durch das Schlüsselloch und bemerkt dass es relativ sicher erscheint. Sie steigen über die Leichen der [[Rotröcken]] und machen sich auf zur Falltür. [[Vektor Stalan]] schaut durch die Falltür und sieht dass sie sich in einer Ruine befinden die sich in der Nähe des Tresendar Anwesen das sich östlich in [[Pandelva]] befindet. 
 
 Nun da sich die die Gruppe etwas orientiert hat will sich die Gruppe etwas mehr die Höhle erkunden. [[Kamdozal]] verwendet [[Tremor Sense]] und bemerkt dass der Eingang durch den die Gruppe den Raum betreten haben plötzlich versperrt ist. Nach etwas genauerem Untersucht sieht [[Kamdozal]] das ein Stein etwas hervorsteht und die Wand mit mechanischem Ratern verschwindet. Die Tür ist ein Mechanismus die mit Flaschenzüge und Zahnräder geschlossen bzw geöffnet werden kann.
 

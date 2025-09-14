@@ -1,12 +1,12 @@
-Real Player: Kevin (ich)
-Rasse: Tiefling
-Classe: Arificer - Battlesmith
+**Real Player:** Kevin (ich)
+**Rasse:** Tiefling
+**Classe:** Arificer - Battlesmith
 
-Hit Dice: (X)(O)
-Max HP/HP: 16/16
-Exhaustions: 1
-Level: 3
-Ep: 905XP
+**Hit Dice:** (O)(O)
+**Max HP/HP:** 16/16
+**Exhaustions:** 0
+**Level:** 3
+**Ep:** 905XP
 
 | STR | DEX | CON | INT | WIS | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -30,6 +30,7 @@ Fire Resistance
 1. [[Mage Hand]]
 2. [[Mending]]
 3. [[Ray of Frost]]
+4. 
 ## Spells Level 1:
 Slots: (0)(0)(0)
 1. [[Cure Wounds]]
@@ -42,8 +43,8 @@ Slots: (0)(0)(0)
 ## Inventory:
 Platinmünzen: 3
 Elektrummünzen: 20
-Goldmünzen: 292
-Silbermünzen: 144
+Goldmünzen: 262
+Silbermünzen: 141
 Kupfermünzen: 0
 
 studded leather armor: 12 + Dex
@@ -64,8 +65,7 @@ Thieves’ tools
 1 Unsichtbarkeitstrank
 1 saubere Reisekleidung
 6 Kieselsteine (davon 0 [[Magic Stone]])
-8 Stofffetzen
+10 Molotovflaschen
 1 oxidierte Kupferkanne
-
 ## Pets
 Schwarzes Pferd

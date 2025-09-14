@@ -1,3 +1,3 @@
-Kleiner Hof auf dem Weizen angebaut wird in [[Phandalin]].
+Kleiner Hof auf dem Weizen angebaut wird in [[Pandelva]].
 
 Dieser gehört [[Frau Erlenblatt]]
