@@ -1,3 +1,5 @@
+**Vorherige Session: [[06_Session (16.08.25)]]**
+
 Die Gruppe befinden sich am Apfelhain, doch plötzlich kommt [[Kamdozal]] auf die Idee am Apfelhain einen Job anzunehmen in dem er aus der Güte seinem Herzen hilft, Äpfel zu pflücken. Heimlich will er jedoch probieren Apfelcider zu brauen.
 
 Die restliche Gruppe macht sich nun auf den weg zu Anwesen. 
@@ -76,3 +78,5 @@ Durch die Interrogation wurde heraus gefunden dass er ein Söldner für [[Iarno 
 
 Zu guter Letzt lassen sie den Flüchtigen laufen, da sie keinen Nutzen mehr für ihn haben und nicht 1 GP jede Woche zahlen wollen um ihm beim [[Roter Gockel]] zu verstecken.
 Die Gruppe nutzt nun die Teleport Fähigkeit von [[Wurst der Hund]] um zurück zum Apfelhain zu gelangen und machen eine Long Rest
+
+**Nächste Session: [[08_Session (06.09.25)]]**

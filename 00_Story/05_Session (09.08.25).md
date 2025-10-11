@@ -1,3 +1,5 @@
+**Vorherige Session: [[04_Session (27.07.25)]]**
+
 Die Gruppe trifft sich vor der Bergbau Exchange. [[Ilu Ignoris]] fragt [[Kyzer]] wie er es mit dem casual racisms umgeht. Dieser meint es sei es schon gewohnt. Nach weiteren Konversationen will sich die Gruppe auf machen [[Bürgermeister's Ork Problem]] anzugehen. Nach einer gemeinsamen Denkpartie fällt der Gruppe ein Wi sich diese befinden. 
 
 Die Gruppe macht sich auf den Weg. Die Gruppe sieht im den Gebüsch den Manbun eines [[Hobgoblin]].
@@ -53,3 +55,4 @@ In dem Zettel steht drinnen:
 Subjekt Nr.: 1201201023012413
 Data: Ahne eines Teilnehmers des Langen Marsches Auserwählter von [[Mechanus]]
 
+**Nächste Session: [[06_Session (16.08.25)]]**

@@ -8,44 +8,44 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:02_Locations  ",
+      "query": "path:00_Story  ",
       "color": {
         "a": 1,
-        "rgb": 5431387
+        "rgb": 16766720
       }
     },
     {
-      "query": "path:03_NPC's  ",
+      "query": "path:03_Locations  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 1737484
       }
     },
     {
-      "query": "path:01_Adventurers  ",
+      "query": "path:08_Monster  ",
       "color": {
         "a": 1,
-        "rgb": 5396192
+        "rgb": 13180189
       }
     },
     {
-      "query": "path:04_Spells  ",
+      "query": "path:02_Adventurers  ",
       "color": {
         "a": 1,
-        "rgb": 14938163
+        "rgb": 1059562
       }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "nodeSizeMultiplier": 0.9984130859375,
+  "lineSizeMultiplier": 0.896329752604167,
+  "collapse-forces": false,
   "centerStrength": 0.5,
   "repelStrength": 10,
   "linkStrength": 0.5,
   "linkDistance": 199,
-  "scale": 0.6757694004241385,
+  "scale": 0.3003419557440613,
   "close": true
 }

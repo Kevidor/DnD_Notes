@@ -1,3 +1,5 @@
+**Vorherige Session: [[02_Session (12.07.25)]]**
+
 Nach einer Stunde short Rest macht sich das Team wieder weiter in das Abenteuer.
 
 [[Vektor Stalan]] schaut durch das Schlüsselloch und bemerkt dass es relativ sicher erscheint. Sie steigen über die Leichen der [[Rotröcken]] und machen sich auf zur Falltür. [[Vektor Stalan]] schaut durch die Falltür und sieht dass sie sich in einer Ruine befinden die sich in der Nähe des Tresendar Anwesen das sich östlich in [[Pandelva]] befindet. 
@@ -84,3 +86,5 @@ Gesamt: 325GM, 395SM, 22EM, 15PM, golden Ohrring mit Rubin(30GM), 5 carnelians(1
 Währenddessen fragt [[Kyzer]] [[Ilu Ignoris]] ob die beiden die Leiche der Mutter abgeben soll. Sie machen sich auf den Weg zur Mutter. Die Mutter fragt ob die Beiden die Leiche hinterm Haus unter einen Apfelbaum zu vergraben. Sie kann den beiden nichts bieten aber wenn sie ihrer Kette finden gehört sie den Beiden und somit verlassen die Beiden das Haus.
 
 Zufällig treffen sich beide Gruppen in der Dorfmitte. [[Kyzer]] und [[Ilu Ignoris]] sehen wie die anderen 3 die Taverne betreten.
+
+**Nächste Session: [[04_Session (27.07.25)]]**

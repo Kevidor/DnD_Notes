@@ -1,3 +1,5 @@
+**Vorherige Session: [[08_Session (06.09.25)]]**
+
 [[MarvMarv]] hat die Party verlassen um einen Blumenkranz zu machen.
 
 ***Combat-Encounter:***
@@ -67,4 +69,6 @@ Die Gruppe denkt sich es ist nicht sicher hier zu schlafen wenn ein hungriger [[
 
 Die Gruppe ist nun in einer Wiese mit hohem Gras und dort entscheiden sie sich eine Long Rest zu machen. Die Long Rest gelingt. Als sie aufwachen gehe sie ein wenig weiter und sie sehen eine Gruppe bestehend aus 7 [[Ork]]s. [[Kamdozal]] will weg rennen und dadurch entdeckte ein [[Ork]] sie, holen einen Zettel raus, schaut mehrmals rauf und runter und bemerkt dass Kopfgeld auf diesen liegt sie bereiten sich auf einen Kampf vor. [[Vektor Stalan]] tritt vor und spricht mit diesen auf orkisch während er [[Guidance]] von [[Kamdozal]] erhält. Er spricht mit ihnen sie müssten nicht kämpfen. Der [[Ork]] schaut ihn an und meint auf diese liege Kopfgeld. [[Vektor Stalan]] meint er bietet mehr wenn sie vergessen das sie hier wären. Sie handeln 50 Gold aus und sie drehen sich um verschwinden.
 
-Die Gruppe ist erleichtert und macht sich auf zu [[Thundertree]]. Sie sehen eine großen Trum und einen Baum an dem Schädel hängen.
+Die Gruppe ist erleichtert und macht sich auf zu [[Thundertree]]. Sie sehen eine großen Trum und einen Baum an dem Schädel hängen. An einem Schild steht "Achtung: Zombies und Pflanzenmonster. Dreht um"
+
+**Nächste Session: [[10_Session (28.09.25)]]**

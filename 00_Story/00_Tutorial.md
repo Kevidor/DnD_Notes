@@ -23,3 +23,5 @@ Plötzlich bemerkte [[Kyzer]] einen Ochsen kutsche mit zwei, an einem Baum gebun
 [[Kyzer]] macht sich weiter auf dem Weg, ging dem Trampelpfad entlang und bemerkte eine Seil-falle. ER versuchte diese zu zerlegen, doch schaffte dies nicht.
 
 Etwas weiter entlang des Pfades traf [[Kyzer]] auf eine Gruppe an Abenteurer.
+
+**Nächste Session: [[01_Session (06.07.25)]]**

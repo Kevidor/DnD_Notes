@@ -1,3 +1,5 @@
+**Vorherige Session: [[05_Session (09.08.25)]]**
+
 [[Kamdozal]], [[Kyzer]], [[Vektor Stalan]] haben erfolgreich eine Long Rest abgeschlossen.
 
 [[Kyzer]] und [[Kamdozal]] wurden durch den harten Aufschlages des [[Ogre]]s geweckt. Sie sehen einen verdutzten [[MarvMarv]], ein erschrockener [[Vektor Stalan]], ein [[Ilu Ignoris]] mit einer Karte in der Hand und einen toten [[Ogre]].
@@ -29,3 +31,5 @@ Der Rest der Gruppe macht sich auch zum Erlenblatt für ein Bad. Nachdem Bad von
 Die Gruppe ist nun frisch gebadet und ausgeruhte mit kleinern (oder größeren) Misstrauen gegenüber [[Vektor Stalan]] geht die Gruppe zu [[Daran EdarMath]]. [[Daran EdarMath]] fragt was sie von ihm wollen und was die Gruppe am Apfelhain machen. [[Ilu Ignoris]] schafft es sich nicht richtig sich vor zustellen somit fängt [[Daran EdarMath]] an, eventuell schaffen es die anderen auch und zu guter Letzt stellt [[Daran EdarMath]] seinen Hund [[Wurst der Hund]] vor. Er erzählt dass er früher auch Abenteurer war. Die Gruppe fragt nach [[Gundren Rockseeker]], der [[Schwarzen Spinne]] und des [[Club of many Arrows]]. Er redet von einem Riesen der durch einen Stirnreif unglaublich intelligent wurde. Es ist unglaublich schwer in zu besiegen mit diesem Stirnreif und dieser ist auch verflucht was es nicht abnehmbar macht. Dieser Riese ist verstoßen worden weil er intelligent ist und sich um seinen Körper kümmert und nicht wie die anderen um Völlerei. Weiter stellt [[Ilu Ignoris]] eine frage zu [[Lord Cragmaw]] und er erzählt dass er einen kennt jedoch ist es wohl nicht der gleiche. [[Lord Cragmaw]] ist mehr ein Titel der von [[Brainbreaker]] vergeben wird. Den [[Lord Cragmaw]] den [[Daran EdarMath]] kannte wurde der Kopf abgeschlagen. Er erzählt von den einem [[Brainbreaker]] der den [[Lord Cragmaw]] befehligt.
 
 [[Roter Gockel]] mit dem Wirt [[Markus Haller]]
+
+**Nächste Session: [[07_Session (30.08.25)]]**

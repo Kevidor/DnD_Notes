@@ -1,3 +1,5 @@
+**Vorherige Session: [[01_Session (06.07.25)]]**
+
 [[Vektor Stalan]] steht früher auf da seine Klasse ihm erlaubt weniger zu schlafen. Er betritt einen Laden. Eine Gruppe schaut ihn grimmig an. Jemand blockiert ihm den Weg und verlangt dass er ihnen eine Runde Bier ausgibt als Zoll. Er sagt ihnen dass er kein Stress will jedoch fühlt sich der Typ nicht eingeschüchtert. Er verlangt dass er erstmal die Bier kauft ,dann schauen sie weiter.
 
 Der Anführer der roten Umhängen [[Gilbrant]] verlangt. eine weitere Runde bestehend aus 4 Bier. Sie fragen [[Vektor Stalan]] was ihm hier her führt. Er erläutert dass er Informationen zu Personen spezifischer zu einem [[Lord Cragmaw]]. Er meint er sei zu neugierig, droht dass er das Thema sein lassen soll und sich dann verzieht.
@@ -133,3 +135,5 @@ Der [[Rotröcken]] erzählt ihn von den Gefangenen, der Waffenkammer und welche 
 Die Flask ist mit Bieber-fett bestückt und dadurch wasserfest. Im Beutel befinden sich 1 Heiltrank, 1 Unsichtbarkeitstrank, 1 saubere Reisekleidung, 50 Goldmünzen.
 
 Die Gruppe macht einen short rest.
+
+**Nächste Session: [[03_Session (19.07.25)]]**

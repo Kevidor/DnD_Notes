@@ -1,3 +1,5 @@
+**Vorherige Session: [[00_Tutorial]]**
+
 [[Kyzer]] trifft auf die Gruppe. Die Gruppe stellt sich gegenseitig vor. Die Gruppe sucht auch nach [[Gundren Rockseeker]]. 
 
 Die Gruppe machte sich auf den weg zu Hölle. Sie kommen an einer Schlingfalle vorbei und [[Vektor Stalan]] warnt die Gruppe for Fallgrube. Vector und Kyzer schleichen sich erfolgreich an die zwei Goblins an.
@@ -108,3 +110,5 @@ Die Gruppe packten die Vorräte in den Ochsenkarren, schnallten den [[Goblin]] a
 Die Gruppe gibt die Waren bei [[Elmar Barthen]] ab, dieser zahlt die Gruppe aus. [[Kamdozal]] streicht sich die ganzen 40 Gold selber ein bevor es jemand sieht. [[Saldir Halbwinter]] vergibt die Side-Quest [[Findet den Magier Iarno Albrek]]. [[Vektor Stalan]] macht sich auf zum [[Sleeping Giant]] in um nach [[Lord Cragmaw]] zu forschen. Der Ochsenkarren ist vor den [[Steinhügelherberge]] geparkt. In der Gruppe kauft sich jeder ein Zimmer. [[Vektor Stalan]] leiht [[Saldir Halbwinter]] 15 Silber und [[Kamdozal]] gibt [[Saldir Halbwinter]] einen Apfel. [[Kamdozal]] bekommt Handschellen um den [[Rah]] zu fesseln, beim Wechsel merkt er dass der [[Goblin]] sich von den regulären Fesseln befreit hat. Waffenlieferung an [[Löwenschildhändler]].
 
 In der Gruppe geht jeder zu seinem Zimmer, [[Rah]] schläft bei [[Kamdozal]]. Jeder bekommt eine long Rest.
+
+**Nächste Session: [[02_Session (12.07.25)]]**

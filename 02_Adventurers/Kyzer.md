@@ -3,15 +3,14 @@
 **Classe:** Arificer - Battlesmith
 
 **Hit Dice:** (O)(O)
-**Max HP/HP:** 16/16
+**Max HP/HP:** 25/19
 **Exhaustions:** 0
-**Level:** 3
-**Ep:** 905XP
+**Level:** 4
 
 | STR | DEX | CON | INT | WIS | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-|  8  | 14  | 14  | 16  | 13  | 12  |
-| -1  | +2  | +2  | +3  | +1  | +1  |
+|  8  | 14  | 14  | 18  | 13  | 12  |
+| -1  | +2  | +2  | +4  | +1  | +1  |
 ## Feats
 Darkvision: 60 ft
 Fire Resistance
@@ -30,15 +29,15 @@ Fire Resistance
 1. [[Mage Hand]]
 2. [[Mending]]
 3. [[Ray of Frost]]
-4. 
 ## Spells Level 1:
-Slots: (0)(0)(0)
+Slots: (X)(0)(0)
 1. [[Cure Wounds]]
 2. [[Catapult]]
 3. [[Snare]]
 4. [[Absorb Elements]]
 5. [[Heroism]]
 6. [[Shield]]
+7. [[Identify]]
 
 ## Inventory:
 Platinmünzen: 3
@@ -65,7 +64,7 @@ Thieves’ tools
 1 Unsichtbarkeitstrank
 1 saubere Reisekleidung
 6 Kieselsteine (davon 0 [[Magic Stone]])
-10 Molotovflaschen
+9 Molotovflaschen
 1 oxidierte Kupferkanne
 ## Pets
 Schwarzes Pferd
