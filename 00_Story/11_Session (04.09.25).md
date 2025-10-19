@@ -63,4 +63,4 @@ Die Gruppe hören Wölfe heulen und Fackeln näher kommen und nach einiger zeit 
 
 Die Gruppe sieht wie alle 5 min ein [[Goblin]]reiter vorbei kommt und [[Kamdozal]] will das Schloss stürmen doch [[Kyzer]] versucht ihn ein wenig Vernunft einzureden und nicht zu rennen sondern zu schleichen. Jedoch ist es helllichter Tag und sie werden entdeckt. Ein [[Hobgoblin]] alarmiert die anderen und somit ist das mehr als das Halbe Schloss in Aufruhe.
 
-**Nächste Session: [[12_Session (28.09.25)]]**
+**Nächste Session: [[12_Session (11.10.25)]]**

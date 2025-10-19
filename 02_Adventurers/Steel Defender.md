@@ -1,7 +1,8 @@
 Rasse: Construct
 
-Hit Dice: (O)(O)
-Max HP/HP: 25/9
+**Hit Dice:** (O)(O)
+**Max HP/HP:** 25/0
+**AC:** 15
 
 | STR | DEX | CON | INT | WIS | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: |

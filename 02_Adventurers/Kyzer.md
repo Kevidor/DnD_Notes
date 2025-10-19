@@ -3,8 +3,8 @@
 **Classe:** Arificer - Battlesmith
 
 **Hit Dice:** (O)(O)
-**Max HP/HP:** 25/19
-**Exhaustions:** 0
+**Max HP/HP:** 25/10
+**Exhaustions:** 1
 **Level:** 4
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -30,7 +30,7 @@ Fire Resistance
 2. [[Mending]]
 3. [[Ray of Frost]]
 ## Spells Level 1:
-Slots: (X)(0)(0)
+Slots: (X)(X)(X)
 1. [[Cure Wounds]]
 2. [[Catapult]]
 3. [[Snare]]
