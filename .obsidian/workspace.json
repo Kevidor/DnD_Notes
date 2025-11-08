@@ -1,40 +1,87 @@
 {
   "main": {
-    "id": "477a22b8703c5708",
+    "id": "9d787335129db671",
     "type": "split",
     "children": [
       {
-        "id": "4bc25a87bf738e7f",
+        "id": "dc3816aa7042b199",
         "type": "tabs",
-        "dimension": 58.56598984771574,
+        "dimension": 59.81818181818181,
         "children": [
           {
-            "id": "933b712569cc5c4f",
+            "id": "a988b6a475685576",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_One_Shots/C1_02_Session (26.10.2025).md",
+                "file": "00_Story/15_Session (08.11.25).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1_02_Session (26.10.2025)"
+              "title": "15_Session (08.11.25)"
+            }
+          },
+          {
+            "id": "3450192c6ee7b40a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "DnD 2024 Players Handbook 5e 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DnD 2024 Players Handbook 5e 1"
+            }
+          },
+          {
+            "id": "e7c124ac2c88a87d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UA2024-Artificer.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "UA2024-Artificer"
+            }
+          },
+          {
+            "id": "9a4f452fdc9e17b2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UA2025-Cartographer-Artificer.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "UA2025-Cartographer-Artificer"
+            }
+          },
+          {
+            "id": "1c1667f0d803849f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       },
       {
-        "id": "4e2552148557db2b",
+        "id": "bd5aca6a4a17f26c",
         "type": "split",
-        "dimension": 41.43401015228426,
+        "dimension": 40.18181818181818,
         "children": [
           {
-            "id": "74e1a9647e7e6230",
+            "id": "b4209385bc75954e",
             "type": "tabs",
+            "dimension": 55.90631364562118,
             "children": [
               {
-                "id": "5b5a8b6fb96faf9a",
+                "id": "562716afb3bb2ec2",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -48,7 +95,7 @@
                 }
               },
               {
-                "id": "cb2ab7cf0b81ef46",
+                "id": "c536e850bbc2f15c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -62,7 +109,21 @@
                 }
               },
               {
-                "id": "3d82517625105e79",
+                "id": "1416f8e7795f6ed6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Adventurers/Ilu Ignoris.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ilu Ignoris"
+                }
+              },
+              {
+                "id": "7af35010e256066d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -76,7 +137,7 @@
                 }
               },
               {
-                "id": "7c8d607e154e60a2",
+                "id": "9607bbb92a23152f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -90,41 +151,28 @@
                 }
               },
               {
-                "id": "db485db86a65ae41",
+                "id": "71f9425159cc65ac",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02_Adventurers/Ilu Ignoris.md",
+                    "file": "04_NPC's/Lord Cragmaw.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ilu Ignoris"
+                  "title": "Lord Cragmaw"
                 }
               }
             ]
           },
           {
-            "id": "23f9b9f2cda8943a",
+            "id": "2f26d264684b24f5",
             "type": "tabs",
+            "dimension": 44.09368635437882,
             "children": [
               {
-                "id": "8ed1435ef0e950ac",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "05_Spells/Catapult.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Catapult"
-                }
-              },
-              {
-                "id": "13e61df382e204a9",
+                "id": "26b33a2d6b070429",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -138,7 +186,21 @@
                 }
               },
               {
-                "id": "12345338c98da579",
+                "id": "f865ff9f5b7b5392",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05_Spells/Catapult.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Catapult"
+                }
+              },
+              {
+                "id": "040a9c3e85e3d704",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -152,34 +214,77 @@
                 }
               },
               {
-                "id": "e2f7cac6b8e2f972",
+                "id": "21bb7f49bcdb0f1e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "05_Spells/Mending.md",
+                    "file": "05_Spells/Mage Hand.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Mending"
+                  "title": "Mage Hand"
                 }
               },
               {
-                "id": "1d046567edab46fe",
+                "id": "aba2bdf348c12071",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Hilfestellung.md",
+                    "file": "05_Spells/Heroism.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hilfestellung"
+                  "title": "Heroism"
+                }
+              },
+              {
+                "id": "876c84339e446ce0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05_Spells/Shield.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Shield"
+                }
+              },
+              {
+                "id": "ada680f7fbfb7f76",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05_Spells/Identify.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Identify"
+                }
+              },
+              {
+                "id": "f3e6a8514d53d286",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05_Items/Molotov.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Molotov"
                 }
               }
-            ]
+            ],
+            "currentTab": 7
           }
         ],
         "direction": "horizontal"
@@ -188,15 +293,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fbac07198f467566",
+    "id": "8be4c4356a0aa406",
     "type": "split",
     "children": [
       {
-        "id": "7f81039a520a1c15",
+        "id": "ae01544a56b33969",
         "type": "tabs",
         "children": [
           {
-            "id": "786d7542cae596e3",
+            "id": "0f9b793d9d929b8f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -209,7 +314,7 @@
             }
           },
           {
-            "id": "4c26512e12bdaf78",
+            "id": "3a8d0feb48f9a47a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -226,7 +331,7 @@
             }
           },
           {
-            "id": "9af371b260678566",
+            "id": "9923c2c3634f299a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -239,23 +344,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 218.5
   },
   "right": {
-    "id": "f2a782f53ad94842",
+    "id": "dece53f8427ce11a",
     "type": "split",
     "children": [
       {
-        "id": "63b980ee26b698ae",
+        "id": "5c3c3ddce4b695b4",
         "type": "tabs",
         "children": [
           {
-            "id": "db176c4e0d6c174e",
+            "id": "d422234101fa799d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_One_Shots/C1_02_Session (26.10.2025).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,25 +369,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C1_02_Session (26.10.2025)"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "8baff50d9a89cf30",
+            "id": "b39ecf9751bca94f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_One_Shots/C1_02_Session (26.10.2025).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C1_02_Session (26.10.2025)"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "d9e1ba79d4d7fb1a",
+            "id": "4de46f8f4d7cda1a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -298,62 +401,87 @@
             }
           },
           {
-            "id": "291647996e14b021",
+            "id": "2ca832f3f1706281",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_One_Shots/C1_02_Session (26.10.2025).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C1_02_Session (26.10.2025)"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "github-sync:Sync with Remote": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "933b712569cc5c4f",
+  "active": "0f9b793d9d929b8f",
   "lastOpenFiles": [
+    "05_Items/Molotov.md",
+    "02_Adventurers/Kyzer.md",
+    "00_Story/15_Session (08.11.25).md",
+    "00_Story/14_Session (25.10.25).md",
+    "02_Adventurers/Steel Defender.md",
+    "05_Spells/Identify.md",
+    "00_Story/13_Session (18.10.25).md",
+    "DnD_Charakterbogen_Kingslay.pdf",
     "00_One_Shots/C1_01_Session (05.10.2025).md",
     "00_One_Shots/C1_02_Session (26.10.2025).md",
-    "DnD_Charakterbogen_Kingslay.pdf",
-    "00_Story/13_Session (18.10.25).md",
-    "00_Story/12_Session (11.10.25).md",
-    "00_Story/14_Session (25.10.25).md",
-    "00_Story/01_Session (06.07.25).md",
-    "00_Story/00_Tutorial.md",
-    "05_Spells/Catapult.md",
     "00_One_Shots",
-    "05_Spells/Cure Wounds.md",
-    "05_Spells/Heroism.md",
-    "Hilfestellung.md",
-    "05_Spells/Mending.md",
     "05_Spells/Ray of Frost.md",
-    "02_Adventurers/Kyzer.md",
-    "02_Adventurers/Steel Defender.md",
-    "02_Adventurers/MarvMarv.md",
-    "02_Adventurers/Ilu Ignoris.md",
-    "02_Adventurers/Vektor Stalan.md",
-    "02_Adventurers/Kamdozal.md"
+    "00_Story/11_Session (04.09.25).md",
+    "00_Story/12_Session (11.10.25).md",
+    "03_Locations/Pandelva.md",
+    "git-ignore.md",
+    "05_Spells/Cure Wounds.md",
+    "DnD_Charakterbogen_Kyzer.pdf",
+    "05_Spells/Heroism.md",
+    "05_Spells/Mage Hand.md",
+    "05_Spells/Catapult.md",
+    "Excalidraw/Drawing 2025-10-07 12.35.51.excalidraw.md",
+    "Excalidraw",
+    "00_Story/01_Session (06.07.25).md",
+    "00_Story/02_Session (12.07.25).md",
+    "00_Story/03_Session (19.07.25).md",
+    "00_Story/04_Session (27.07.25).md",
+    "00_Story/05_Session (09.08.25).md",
+    "00_Story/06_Session (16.08.25).md",
+    "00_Story/07_Session (30.08.25).md",
+    "Adventure in the Frost",
+    "The Mine of Phandelva",
+    "UA2024-Artificer.pdf",
+    "UA2025-Cartographer-Artificer.pdf",
+    "DnD 2024 Players Handbook 5e 1.pdf",
+    "Untitled.canvas",
+    "05_Items",
+    "Bilder/Owlbear.png",
+    "Bilder/Was_die_Goblins_wissen.png",
+    "Bilder/Skill liste.png",
+    "Bilder/Phandalin_map.png",
+    "Bilder/Nothic.png",
+    "Bilder/Goblin.png",
+    "Bilder/Bugbear.png",
+    "Bilder/Brief für Albrek.png",
+    "Bilder/Banshee.png"
   ]
 }

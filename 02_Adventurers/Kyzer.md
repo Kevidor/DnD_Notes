@@ -3,7 +3,7 @@
 **Classe:** Arificer - Battlesmith
 
 **Hit Dice:** (O)(O)
-**Max HP/HP:** 25/10
+**Max HP/HP:** 25/25
 **Exhaustions:** 1
 **Level:** 4
 
