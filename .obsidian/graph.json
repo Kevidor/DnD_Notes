@@ -6,6 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
+<<<<<<< Updated upstream
   "colorGroups": [
     {
       "query": "path:00_Story  ",
@@ -36,9 +37,13 @@
       }
     }
   ],
+=======
+  "colorGroups": [],
+>>>>>>> Stashed changes
   "collapse-display": true,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
+<<<<<<< Updated upstream
   "nodeSizeMultiplier": 0.9984130859375,
   "lineSizeMultiplier": 0.896329752604167,
   "collapse-forces": false,
@@ -47,5 +52,15 @@
   "linkStrength": 0.5,
   "linkDistance": 199,
   "scale": 0.3003419557440613,
+=======
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5087618855792583,
+>>>>>>> Stashed changes
   "close": true
 }

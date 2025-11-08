@@ -69,3 +69,5 @@ Zwei weiter [[Wolf]]e kommen angelaufen
 [[Kamdozal]] bemerkt das der Regen stärker geworden ist und die Spuren verwischt hat. Die Gruppe beschließt sich dass sie nun dringend eine Rast machen muss. 
 
 [[Vektor Stalan]] hockt mit [[Kyzer]]'s Pferd im Gebüsch.
+
+**Nächste Session: [[14_Session (04.09.25)]]**
