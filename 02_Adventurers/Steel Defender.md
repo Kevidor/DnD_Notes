@@ -1,7 +1,7 @@
 Rasse: Construct
 
 **Hit Dice:** (O)(O)
-**Max HP/HP:** 25/0
+**Max HP/HP:** 25/24
 **AC:** 15
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -22,7 +22,7 @@ check or saving throw the defender makes.
 equals your spell attack modifier, reach 5 ft. Hit: 1d8 + 2
 plus your Intelligence modifier Force damage.
 
-**Repair (3/Day)(0)(0)(0)**. The defender, or one Construct or
+**Repair (3/Day)(X)(0)(0)**. The defender, or one Construct or
 object it can see within 5 feet of it, regains a number of
 Hit Points equal to 2d8 plus your Intelligence modifier.
 

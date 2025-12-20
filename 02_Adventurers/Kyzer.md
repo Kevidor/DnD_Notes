@@ -3,8 +3,8 @@
 **Classe:** Arificer - Battlesmith
 
 **Hit Dice:** (O)(O)
-**Max HP/HP:** 25/25
-**Exhaustions:** 1
+**Max HP/HP:** 25/24
+**Exhaustions:** 0
 **Level:** 4
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -15,9 +15,9 @@
 Darkvision: 60 ft
 Fire Resistance
 
-[[Magical Tinkering]], [[Spellcasting]]
+[[Magical Tinkering]] (4), [[Spellcasting]]
 [[Replicate Magic Item]]
-[[Battel Smith]], [[Arcane Empowerment]], [[Steel Defender]](X), [[Right Tool fot the Job]]
+[[Battel Smith]], [[Arcane Empowerment]], [[Steel Defender]](X), [[Right Tool for the Job]]
 
 ## Known Plans (1)(2)
 1. [[Repeating Shot]]
@@ -30,7 +30,7 @@ Fire Resistance
 2. [[Mending]]
 3. [[Ray of Frost]]
 ## Spells Level 1:
-Slots: (X)(X)(X)
+Slots: (0)(0)(0)
 1. [[Cure Wounds]]
 2. [[Catapult]]
 3. [[Snare]]
@@ -42,8 +42,8 @@ Slots: (X)(X)(X)
 ## Inventory:
 Platinmünzen: 3
 Elektrummünzen: 20
-Goldmünzen: 262
-Silbermünzen: 141
+Goldmünzen: 258
+Silbermünzen: 127
 Kupfermünzen: 0
 
 studded leather armor: 12 + Dex
@@ -55,6 +55,7 @@ mit [[Repeating Shot]]: + 1 auf attack und damage rolls
 Thieves’ tools
 
 2 Stück Holz
+1 Bedroll
 3 Goldzähne
 2 Granatsteine
 1 carnelians
@@ -62,9 +63,14 @@ Thieves’ tools
 1 Obidiankristall
 1 Heiltrank
 1 Unsichtbarkeitstrank
-1 saubere Reisekleidung
 6 Kieselsteine (davon 0 [[Magic Stone]])
-9 Molotovflaschen
+6 Molotovflaschen
 1 oxidierte Kupferkanne
+1 repariertes Schloss
+1 [[Owlbear]] Fell
+1 Scroll of Silence
+1 Scroll of Revivify
+1 Cloak of Bellowing
+1 Hood of Incognito
 ## Pets
 Schwarzes Pferd

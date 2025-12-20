@@ -9,17 +9,45 @@
         "dimension": 59.81818181818181,
         "children": [
           {
-            "id": "a988b6a475685576",
+            "id": "d1a4d2ba80c84c8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Story/15_Session (08.11.25).md",
+                "file": "00_Story/18_Session (29.11.25).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15_Session (08.11.25)"
+              "title": "18_Session (29.11.25)"
+            }
+          },
+          {
+            "id": "1a2cb72f0795fd2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Story/19_Session (06.12.25).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "19_Session (06.12.25)"
+            }
+          },
+          {
+            "id": "e1116984b99787b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Locations/Umgebung Phadalin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Umgebung Phadalin"
             }
           },
           {
@@ -68,7 +96,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bd5aca6a4a17f26c",
@@ -172,20 +201,6 @@
             "dimension": 44.09368635437882,
             "children": [
               {
-                "id": "26b33a2d6b070429",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "05_Spells/Cure Wounds.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Cure Wounds"
-                }
-              },
-              {
                 "id": "f865ff9f5b7b5392",
                 "type": "leaf",
                 "state": {
@@ -282,9 +297,23 @@
                   "icon": "lucide-file",
                   "title": "Molotov"
                 }
+              },
+              {
+                "id": "ff83ed1cc8127c5d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05_Spells/Cure Wounds.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Cure Wounds"
+                }
               }
             ],
-            "currentTab": 7
+            "currentTab": 6
           }
         ],
         "direction": "horizontal"
@@ -435,45 +464,47 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0f9b793d9d929b8f",
+  "active": "f3e6a8514d53d286",
   "lastOpenFiles": [
+    "05_Spells/Heroism.md",
     "05_Items/Molotov.md",
     "02_Adventurers/Kyzer.md",
-    "00_Story/15_Session (08.11.25).md",
-    "00_Story/14_Session (25.10.25).md",
+    "00_Story/19_Session (06.12.25).md",
     "02_Adventurers/Steel Defender.md",
+    "00_Story/08_Session (06.09.25).md",
+    "00_Story/09_Session (14.09.25).md",
+    "00_Story/18_Session (29.11.25).md",
+    "03_Locations/Umgebung Phadalin.md",
     "05_Spells/Identify.md",
-    "00_Story/13_Session (18.10.25).md",
-    "DnD_Charakterbogen_Kingslay.pdf",
-    "00_One_Shots/C1_01_Session (05.10.2025).md",
-    "00_One_Shots/C1_02_Session (26.10.2025).md",
-    "00_One_Shots",
-    "05_Spells/Ray of Frost.md",
-    "00_Story/11_Session (04.09.25).md",
-    "00_Story/12_Session (11.10.25).md",
-    "03_Locations/Pandelva.md",
-    "git-ignore.md",
-    "05_Spells/Cure Wounds.md",
-    "DnD_Charakterbogen_Kyzer.pdf",
-    "05_Spells/Heroism.md",
     "05_Spells/Mage Hand.md",
-    "05_Spells/Catapult.md",
-    "Excalidraw/Drawing 2025-10-07 12.35.51.excalidraw.md",
+    "UA2024-Artificer.pdf",
+    "DnD 2024 Players Handbook 5e 1.pdf",
+    "05_Spells/Cure Wounds.md",
+    "05_Spells/Ray of Frost.md",
+    "00_Story/17_Session (23.11.25).md",
+    "Hilfestellung.md",
+    "00_Story/16_Session (15.11.25).md",
+    "03_Locations/Pandelva.md",
+    "Excalidraw/Hideout.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Drawing 2025-11-22 21.45.56.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
     "Excalidraw",
-    "00_Story/01_Session (06.07.25).md",
-    "00_Story/02_Session (12.07.25).md",
-    "00_Story/03_Session (19.07.25).md",
-    "00_Story/04_Session (27.07.25).md",
+    "Pasted image 20251122202926.png",
+    "00_Story/10_Session (28.09.25).md",
+    "00_Story/11_Session (04.09.25).md",
+    "00_Story/13_Session (18.10.25).md",
+    "00_Story/12_Session (11.10.25).md",
     "00_Story/05_Session (09.08.25).md",
     "00_Story/06_Session (16.08.25).md",
-    "00_Story/07_Session (30.08.25).md",
+    "DnD_Charakterbogen_Kingslay.pdf",
+    "00_One_Shots",
+    "DnD_Charakterbogen_Kyzer.pdf",
     "Adventure in the Frost",
     "The Mine of Phandelva",
-    "UA2024-Artificer.pdf",
-    "UA2025-Cartographer-Artificer.pdf",
-    "DnD 2024 Players Handbook 5e 1.pdf",
     "Untitled.canvas",
-    "05_Items",
     "Bilder/Owlbear.png",
     "Bilder/Was_die_Goblins_wissen.png",
     "Bilder/Skill liste.png",
@@ -481,7 +512,6 @@
     "Bilder/Nothic.png",
     "Bilder/Goblin.png",
     "Bilder/Bugbear.png",
-    "Bilder/Brief für Albrek.png",
-    "Bilder/Banshee.png"
+    "Bilder/Brief für Albrek.png"
   ]
 }

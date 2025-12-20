@@ -108,7 +108,125 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.15.3",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "id": "H8_O92CzRfIARqkYiI15n",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "r05wjBPF6AsYhWuj-2LJc",
+            "type": "line",
+            "x": 1940,
+            "y": 940.0479100156838,
+            "width": 60,
+            "height": 60,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "RimLrToKf3AtvmluLx6IP"
+            ],
+            "frameId": null,
+            "index": "aBV",
+            "roundness": null,
+            "seed": 1701121328,
+            "version": 108,
+            "versionNonce": 1967533520,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1763846298696,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                60,
+                0
+              ],
+              [
+                60,
+                60
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "polygon": false
+          },
+          {
+            "id": "iuxfPyfL02nfxJQ-hBTJW",
+            "type": "line",
+            "x": 1941.753095626702,
+            "y": 941.191453503471,
+            "width": 60,
+            "height": 60,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "RimLrToKf3AtvmluLx6IP"
+            ],
+            "frameId": null,
+            "index": "aC",
+            "roundness": {
+              "type": 2
+            },
+            "seed": 2064516560,
+            "version": 160,
+            "versionNonce": 2111828944,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1763846298696,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                0,
+                20
+              ],
+              [
+                14.17119751342716,
+                47.71829548836308
+              ],
+              [
+                40,
+                60
+              ],
+              [
+                60,
+                60
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "polygon": false
+          }
+        ],
+        "created": 1763846302932
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,
@@ -127,7 +245,9 @@
   "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
-  "pinnedScripts": [],
+  "pinnedScripts": [
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md"
+  ],
   "customPens": [
     {
       "type": "default",

@@ -9,3 +9,5 @@ Die Gruppe geht weiter und vermutet nicht dass sie verfolgt werden. Sie kommt gu
 Beim Aufwachen sind sie plötzlich in einem Zelt und [[Vektor Stalan]] ist plötzlich auch bei ihnen. [[Kyzer]]'s [[Steel Defender]] steht auch im Eck. Komplett verwirrt stehen sie in dem Raum und schauen sich um bis sie von drei Gestallten unterbrochen werden. Ein Zwerg mit Augenklappe, ein Tiefling und Rouge. Die sagen sie wollen nicht Kämpfen und wurden nur angeheuert um Kampf Taktiken der Gruppe beizubringen. 
 
 Ein langes Mock-battle später is die Gruppe um einiges schlauer und verabschiedet sich von ihren spontanen Lehrmeister. Plötzlich wachen sie wieder im Meteoriten auf, kurz bevor sie eingeschlafen, ohne das Zeit vergangen ist. Wie sich herausstellt wurden sie für die Trainingseinheit in die astral Ebene geholt.
+
+**Nächste Session: [[15_Session (08.11.25)]]**

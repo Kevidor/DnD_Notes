@@ -1,6 +1,6 @@
-**Vorherige Session: [[1]]**
+**Vorherige Session: [[14_Session (25.10.25)]]**
 
-Die Gruppe wacht auf und bemerkt dass sie verfolgt wurden und das komisches Gefühl wurde bestätiget dass sie verfolgt wurden.
+Die Gruppe wacht auf und bemerkt dass sie verfolgt wurden und das komisches Gefühl wurde bestätigt dass sie verfolgt wurden.
 
 **Combat-Encounter**
 [[Kyzer]] bereit eine Reaction vor dass und bewacht den weg um den Fels
@@ -62,3 +62,5 @@ Die [[Zombie]]meute greifen den [[Saldir Halbwinter]] an und treffen
 **Combat-Ende**
 
 Die Gruppe geht weiter in den Raum und sehen zwei gefesselten [[Zwerg]]e, die sehr stark am bluten sind und verdroschen wurden. 
+
+**Nächste Session: [[16_Session (15.11.25)]]**
